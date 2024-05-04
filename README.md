@@ -1,27 +1,12 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Mendes27/Mendes27/assets/141426925/be7d2aac-9cc1-4ea2-811b-669b6b8f2edc">
 
-<span align="center">
+<h1>
+    <a href="https://github.com/Mendes27/">
+     <img align="center" alt="Logo Guilherme Mendes" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Guilherme Mendes</span>
+</h1>
 
-##  Hellooo Helloo World! 👋 
-
-</span>
-
-
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
-</div>
-
-
-<p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm working for the <strong></strong>banking industry</strong>
-<strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>..<br />
-Using the tech to make word better.
-
-</p>
-
-<p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
-</p>
-
+<p align="justify">Systems analysis and development student, passionate about programming and things related to technology.</p>
 <p align="center">
   💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
 </p>
@@ -31,56 +16,30 @@ Using the tech to make word better.
 </p>
 
 <p align="center">
-  🚀  Continuous Learning: <strong>Java, C#, JavaScript, Blazor, Typescript, React, Webflux, Solidity, Outsystems, SASS, UI, UX.</strong>
+  🚀  Continuous Learning: <strong>Java, JavaScript, MySQL</strong>
 </p>
 
 <p align="center">
-  💌 Text me: ⤵️
+   Text me: ⤵️
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/guiialcantara_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
   
-  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
+  <a href="www.linkedin.com/in/guilherme-mendes-16b4a3229/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
-</p>  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-</p>
-
-## 💻 Technologies & Tools
-
-<p align="center">
-  
- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-.NET-181717?style=flat-square&logo=dotnet" height="25"/>
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
- <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
- <img src="https://img.shields.io/badge/-Blazor-4B088A?style=flat-square&logo=blazor" height="25"/>
-
-
-</p>
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
-</p>
-
-
-<div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
-</div>
-
-
 
 <!--
-**kakacordovil/kakacordovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
+
+
+<br>
+<details align="left">
+ 
+  <div align="right">Made by <a href="https://github.com/Mendes27/">GM</a>.</div>
+
+</details>
 
