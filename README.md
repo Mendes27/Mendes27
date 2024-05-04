@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/guiialcantara_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
   
-  <a href="www.linkedin.com/in/guilherme-mendes-16b4a3229/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/guilherme-mendes-16b4a3229/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 
 <!--
